@@ -1,0 +1,12 @@
+name: shotMap
+title: shotMap
+username:
+account: rogerctoussaint
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3675874
+bundleId: 4254718
+url: https://rogerctoussaint.shinyapps.io/shotMap/
+when: 1613971318.50782
+asMultiple: FALSE
+asStatic: FALSE
